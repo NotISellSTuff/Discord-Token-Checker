@@ -1,0 +1,5 @@
+Packages:
+
+colorama
+requests
+time
